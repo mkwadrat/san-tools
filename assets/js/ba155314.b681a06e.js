@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksan_tools=self.webpackChunksan_tools||[]).push([[7738],{1164:function(s){s.exports=JSON.parse('{"label":"hello","permalink":"/san-tools/blog/tags/hello","allTagsPath":"/san-tools/blog/tags","count":2}')}}]);

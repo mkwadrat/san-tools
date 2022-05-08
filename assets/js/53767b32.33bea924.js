@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksan_tools=self.webpackChunksan_tools||[]).push([[7539],{2240:function(o){o.exports=JSON.parse('{"permalink":"/san-tools/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

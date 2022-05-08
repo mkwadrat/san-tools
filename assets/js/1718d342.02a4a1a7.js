@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksan_tools=self.webpackChunksan_tools||[]).push([[8976],{2331:function(s){s.exports=JSON.parse('{"label":"facebook","permalink":"/san-tools/blog/tags/facebook","allTagsPath":"/san-tools/blog/tags","count":1}')}}]);

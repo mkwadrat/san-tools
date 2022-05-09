@@ -10,8 +10,8 @@ const config = {
   tagline: 'Repozytorium komunikacji marketingowej',
   url: 'https://mkwadrat.github.io',
   baseUrl: '/san-tools/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.

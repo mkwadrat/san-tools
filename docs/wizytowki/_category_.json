@@ -1,0 +1,9 @@
+{
+    "label": "Wizytówki",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "Wzory wizytówek pogrupowane według grafik na rewersie."
+    }
+  }
+  

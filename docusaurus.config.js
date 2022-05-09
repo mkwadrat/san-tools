@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Sanpol Marketing Info',
+  tagline: 'Repozytorium komunikacji marketingowej',
   url: 'https://mkwadrat.github.io',
   baseUrl: '/san-tools/',
   onBrokenLinks: 'throw',
@@ -33,19 +33,14 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/mkwadrat/san-tools/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -57,22 +52,27 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Sanpol Marketing',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'San Logo',
+          src: 'img/san-logo.svg',
         },
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Informator',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://sanpol.pl',
+            label: 'Sanpol',
+            position: 'right',
+          },
+          {
+            href: 'https://sanpolprofi.pl',
+            label: 'SanpolProfi',
             position: 'right',
           },
         ],
@@ -81,46 +81,46 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Dokumentacja',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Wprowadzenie',
+                to: '/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Kontakt',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Vitalle',
+                href: '#',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Skalar',
+                href: '#',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Sanpol PR',
+                href: '#',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Linki',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Sanpol',
+                href: 'https://sanpol.pl',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'SanpolProfi',
+                href: 'https://sanpolprofi.pl',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} MM Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

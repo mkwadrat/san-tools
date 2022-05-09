@@ -37,8 +37,6 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/mkwadrat/san-tools/',
         },
         blog: false,
         theme: {
@@ -64,7 +62,6 @@ const config = {
             position: 'left',
             label: 'Informator',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://sanpol.pl',
             label: 'Sanpol',

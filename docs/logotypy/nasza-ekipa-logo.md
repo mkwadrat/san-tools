@@ -1,10 +1,10 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 
-# Logotyp Sanpol Salony
+# Logotyp Nasza Ekipa
 
-![Logotyp Sanpol Salony RGB](/img/sanpol_salony_logo_RGB.png)
+![Logotyp Nasza Ekipa RGB](/img/nasza_ekipa_logo_RGB.png)
 
 ## Krzywe, grafika wektorowa
 

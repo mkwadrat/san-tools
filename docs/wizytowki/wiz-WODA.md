@@ -12,6 +12,6 @@ Poniżej możliwe kombinacje awersów do wykorzystania z powyższym rewersem:
 
 ![Awers wersja 1](https://heri.czest.pl/sha_img/WODA_awe_01.png)
 
-## Wersja z adresem Ekspreshurtu
+## Wersja z adresem Salonu
 
 ![Awers wersja 2](https://heri.czest.pl/sha_img/WODA_awe_02.png)

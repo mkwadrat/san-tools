@@ -4,24 +4,32 @@ sidebar_position: 6
 
 # Logotyp Vitalle
 
-## Krzywe, grafika wektorowa
+![Logotyp Vitalle RGB](/img/vitalle_logo_RGB.png)
+
+## Zasady stosowania znaku
+
+### Identyfikacja wizualna marki Vitalle
+
+[Pobierz Brandbook Vitalle](https://heri.czest.pl/sha_img/logo_vitalle/Vitalle_brandbook.pdf)
+
+### Umieszczanie znaku na stronach www
+
+[Pobierz Wytyczne do publikacji znaku na stronach www](https://heri.czest.pl/sha_img/logo_vitalle/Vitalle_zasady_stosowania_znaku.pdf)
+
+## Pliki do pobrania
+
+### Do druku (CMYK)
 
 PDF, (CMYK)
+[Pobierz logo Vitalle w formacie PDF](https://heri.czest.pl/sha_img/logo_vitalle/CMYK/Vitalle_logo_CMYK_PDF.zip)
 
 EPS, (CMYK)
+[Pobierz logo Vitalle w formacie EPS](https://heri.czest.pl/sha_img/logo_vitalle/CMYK/Vitalle_logo_CMYK_EPS.zip)
 
-SVG, (RGB)
+### Do użytku cyfrowego (RGB)
+
+PNG, (RGB)
+[Pobierz logo Vitalle w formacie PNG](https://heri.czest.pl/sha_img/logo_vitalle/RGB/Vitalle_logo_RGB_PNG.zip)
 
 EPS, (RGB)
-
-## JPG, z tłem
-
-1200 x 600 px, JPG
-
-2400 x 1200 px, JPG
-
-## PNG, bez tła
-
-1200 x 600 px, PNG
-
-2400 x 1200 px, PNG
+[Pobierz logo Vitalle w formacie SVG](https://heri.czest.pl/sha_img/logo_vitalle/RGB/Vitalle_logo_RGB_SVG.zip)

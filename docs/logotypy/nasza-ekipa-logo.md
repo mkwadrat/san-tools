@@ -6,24 +6,20 @@ sidebar_position: 4
 
 ![Logotyp Nasza Ekipa RGB](/img/nasza_ekipa_logo_RGB.png)
 
-## Krzywe, grafika wektorowa
+## Pliki do pobrania
+
+### Do druku (CMYK)
 
 PDF, (CMYK)
+[Pobierz logo Nasza Ekipa w formacie PDF](https://heri.czest.pl/sha_img/logo_naszaekipa/CMYK/naszaekipa_logo_CMYK_PDF.zip)
 
 EPS, (CMYK)
+[Pobierz logo Nasza Ekipa w formacie EPS](https://heri.czest.pl/sha_img/logo_naszaekipa/CMYK/naszaekipa_logo_CMYK_EPS.zip)
 
-SVG, (RGB)
+### Do użytku cyfrowego (RGB)
+
+PNG, (RGB)
+[Pobierz logo Nasza Ekipa w formacie PNG](https://heri.czest.pl/sha_img/logo_naszaekipa/RGB/naszaekipa_logo_RGB_PNG.zip)
 
 EPS, (RGB)
-
-## JPG, z tłem
-
-1200 x 600 px, JPG
-
-2400 x 1200 px, JPG
-
-## PNG, bez tła
-
-1200 x 600 px, PNG
-
-2400 x 1200 px, PNG
+[Pobierz logo Nasza Ekipa w formacie SVG](https://heri.czest.pl/sha_img/logo_naszaekipa/RGB/naszaekipa_logo_RGB_SVG.zip)
